@@ -1,2 +1,2 @@
 # Research-Project-Two
-An Exploration in Polygon-Ellipses Approximations
+An Exploration in Polygon-Ellipse Approximations
