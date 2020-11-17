@@ -14,5 +14,5 @@ This is a rough-attempt. I'm not sure this has been done before. If I were to in
 Having a unit-ellipse solved would drastically simplify the problem.
 I am unsure as to how to divide polygon sections. I am thinking portions of equal area inspired by the atrodynamic approach.
 
-
+More study is needed and this project is currently in the planning phase.
 
